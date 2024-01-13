@@ -7,9 +7,3 @@ Spacy-based tokenizer for text documents.
 ```bash
 pip install git+https://github.com/adampirog/spacy-tokenizer
 ```
-
-## Usage
-
-```bash
-spacy_tokenizer # use --help option for details
-```
