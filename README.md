@@ -14,10 +14,14 @@ pip install git+https://github.com/adampirog/spacy-tokenizer
 
 Constructor arguments:
 
-* lowercase: bool = True Convert all characters to lowercase.
-* lemmatize: bool = False Convert token text to lemmas.
-* remove\_punctuation: bool = True Remove punctuation and white characters.
-* remove\_stopwords: bool = True Remove stopwords (the most common words).
+* **lowercase**: bool = True 
+    Convert all characters to lowercase.
+* **lemmatize**: bool = False 
+    Convert token text to lemmas.
+* **remove\_punctuation**: bool = True 
+    Remove punctuation and white characters.
+* **remove\_stopwords**: bool = True 
+    Remove stopwords (the most common words).
 
 
 ### Via script
